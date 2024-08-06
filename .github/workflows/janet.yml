@@ -1,4 +1,4 @@
-name: Bootcamp 15 Demo
+name: Janet and Joan
 run-name: Testing Github Actions
 on: [push]
 jobs:
